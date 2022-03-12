@@ -1,1 +1,22 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.body {
+}
+.refresh {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  /*   border: 10px dashed rgb(47, 0, 255); */
+}
+
+.excusebox {
+  text-align: center;
+  /*   border: 10px dashed rgb(197, 41, 41); */
+}
